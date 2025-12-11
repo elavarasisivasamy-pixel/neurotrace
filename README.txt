@@ -7,11 +7,12 @@ AI 4 Alzheimer’s Hackathon 2025
 
 
 Files included:
-• brain_aging.gif      → real-time brain aging animation
-• future_brain.png     → today vs +7 years comparison
+• REAL_brain_aging.gif      → real-time brain aging animation
+• REAL_future_brain.png     → today vs +7 years comparison
 
 
-Full code & notebook: [your Colab share link here]
+Full code & notebook: https://colab.research.google.com/drive/1BbZdQ6tPIKu3zfgxdE0xA6mWaESQmXas
+
 
 
 Thank you judges!
