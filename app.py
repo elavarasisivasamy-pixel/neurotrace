@@ -2,7 +2,7 @@ import streamlit as st
 st.set_page_config(page_title="NeuroTrace", layout="centered")
 
 st.title("🧠 NeuroTrace")
-st.subheader("2025 AI 4 Alzheimer’s Hackathon – 1st Place Solo Winner")
+st.subheader("2025 AI 4 Alzheimer’s Hackathon")
 
 st.image("future_brain.png", use_column_width=True)
 st.video("https://www.youtube.com/watch?v=iWfX1hw9jh0")  # or upload your video
